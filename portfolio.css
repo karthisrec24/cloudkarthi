@@ -1,0 +1,22 @@
+body{
+  background-color: yellow;
+  font-family: cursive;
+}
+
+table,th,td{
+  border: 3px solid red
+}
+
+a{
+  color: green;
+  border: 1px solid #D68C72;
+  background-color: #D68C72
+}
+form{
+  background-color: pink
+}
+
+h1
+{
+  color: blue
+}
